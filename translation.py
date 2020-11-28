@@ -1,16 +1,16 @@
 class Translation(object):
-    START_TEXT = """Hello,
+    START_TEXT = """
 Upload files by sending the file link to this bot.
 Quick way to upload files by link in telegram.
 Maximum file size allowed  <b>2GB!</b>
 
-<b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
+
 
 /help for more details..
 
 • Programmer: @m_mahdihajizadeh
 • Channel: @GETUPLOAD
-<b>【 Licenced By :</b> m.mahdihajizadeh  <b>】"""
+"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
