@@ -4,8 +4,7 @@ Upload files by sending the file link to this bot.
 Quick way to upload files by link in telegram.
 Maximum file size allowed  <b>2GB!</b>
 
-
-
+Send url (https://........mp4 , zip  and ...)
 /help for more details..
 
 • Programmer: @m_mahdihajizadeh
@@ -34,13 +33,7 @@ URL | filename | username | password"""
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
-    CURENT_PLAN_DETAILS = """Current plan details
---------
-• Your id: @m_mahdihajizadeh
-• Channel: @GETUPLOAD
-Telegram ID: <code>{}</code>
-Plan name: Free Cloned User
-Expires on: 31/12/2020"""
+    CURENT_PLAN_DETAILS = """• Channel: @GETUPLOAD"""
     HELP_USER = """Upload files by sending the file link to this bot.
 Quick way to <b>upload</b> files by link in telegram.
 Maximum file size allowed  <b>2GB!</b>
@@ -53,12 +46,7 @@ Maximum file size allowed  <b>2GB!</b>
 •    DFile  - Give File with Screenshots
 •    Video  - Give File as video without Screenshots
 •    DFile  - Give File without Screenshots
-
-
-
 --------
-Send /me to know current plan details
-
 • Programmer: @m_mahdihajizadeh
 • Channel: @GETUPLOAD
 <b>【 Licenced By :</b> m.mahdihajizadeh  <b>】</b>"""
